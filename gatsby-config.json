@@ -8,12 +8,12 @@
     "intro": "Nainaa R Rajpaal is your friendly neighborhood wordsmithstress",
     "menuLinks": [
       {
-        "name": "Nainaa R Rajpaal",
-        "slug": "/"
+        "name": "Video Campaigns",
+        "slug": "/video-campaigns/"
       },
       {
-        "name": "Example Page",
-        "slug": "/example/"
+        "name": "Nainaa R Rajpaal",
+        "slug": "/"
       }
     ],
     "footerLinks": [
