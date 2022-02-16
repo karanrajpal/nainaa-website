@@ -1,4 +1,15 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: main_image
+  type: file
+  config:
+    maxSize: 64
+  label: Main Image
+  description: The Hero
