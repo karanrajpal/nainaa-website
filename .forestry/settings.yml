@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: gastby-config.js
-  label: Config
+  path: content
+  label: Content
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
