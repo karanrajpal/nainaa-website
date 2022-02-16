@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: "./gatsby-config.json"
-  label: Config
-  match: "**/*"
 - type: heading
   label: Posts
 - type: directory
@@ -16,6 +12,9 @@ sections:
   create: all
   match: "**/*"
 - type: heading
+  label: Config
+- type: document
+  path: "./gatsby-config.json"
   label: Config
 upload_dir: uploads
 public_path: "/uploads"
