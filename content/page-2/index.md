@@ -9,6 +9,4 @@ tags:
 ---
 This is a great page 2.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/Id64silK_7M](https://www.youtube.com/embed/Id64silK_7M "https://www.youtube.com/embed/Id64silK_7M")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 No way
