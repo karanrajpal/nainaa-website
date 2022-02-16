@@ -14,7 +14,7 @@ sections:
 - type: heading
   label: Config
 - type: document
-  path: "./gatsby-config.json"
+  path: "./gatsby-config"
   label: Config
 upload_dir: uploads
 public_path: "/uploads"
