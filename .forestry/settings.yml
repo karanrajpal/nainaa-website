@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Config folder
   create: all
-  match: "**/*"
+  match: "**/*.json"
 - type: heading
   label: Posts
 - type: directory
