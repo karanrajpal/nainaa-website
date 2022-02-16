@@ -19,9 +19,9 @@
         "footerLinks": [
             {
                 "name": "Gatsby Theme Amsterdam",
-                "url": "https: //github.com/ryanwiemer/gatsby-theme-amsterdam",
+                "url": "https: //github.com/ryanwiemer/gatsby-theme-amsterdam"
             }
-        ],
+        ]
     },
     "plugins": [
         {
