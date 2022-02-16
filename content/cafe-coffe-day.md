@@ -1,5 +1,5 @@
 ---
-title: Cafe Coffe Day
+title: Cafe Coffee Day
 main_image: "/uploads/planner-2017-front.jpeg"
 
 ---
