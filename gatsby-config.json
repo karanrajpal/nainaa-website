@@ -37,7 +37,7 @@
                 "theme_color": "#f5f0eb",
                 "start_url": "/",
                 "display": "standalone",
-                "icon": "require.resolve("./src/images/favicon.png")"
+                "icon": "require.resolve(\"./src/images/favicon.png\")"
             }
         }
     ]
