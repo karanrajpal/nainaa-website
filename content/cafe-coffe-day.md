@@ -1,6 +1,9 @@
 ---
 title: Cafe Coffee Day
 main_image: "/uploads/planner-2017-front.jpeg"
+date: 2022-02-02T05:00:00Z
+cover: "/uploads/planner-2017-front.jpeg"
+tags: []
 
 ---
 Cafe Coffee Day was great when I was there. Now that I left, its being replaced by Starbucks. 
