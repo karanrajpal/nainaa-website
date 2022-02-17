@@ -1,52 +1,53 @@
 {
-    "siteMetadata": {
-        "title": "Nainaa R Rajpaal",
-        "description": "Nainaa R Rajpaal is your friendly neighborhood wordsmithstress",
-        "url": "https://nainaarrajpaal.com",
-        "author": "Nainaa R Rajpaal",
-        "image": "https: //gatsby-starter-amsterdam.netlify.com/og-image.jpg",
-        "intro": "Nainaa R Rajpaal is your friendly neighborhood wordsmithstress",
-        "menuLinks": [
-            {
-                "name": "Nainaa R Rajpaal",
-                "slug": "/"
-            },
-            {
-                "name": "Video Campaigns",
-                "slug": "/video-campaigns/"
-            }
-        ],
-        "footerLinks": [
-            {
-                "name": "Gatsby Theme Amsterdam",
-                "url": "https: //github.com/ryanwiemer/gatsby-theme-amsterdam"
-            }
-        ]
-    },
-    "plugins": [
-        {
-            "resolve": "gatsby-theme-amsterdam",
-            "options": {}
-        },
-        {
-            "resolve": "gatsby-plugin-manifest",
-            "options": {
-                "name": "Gatsby Theme Amsterdam",
-                "short_name": "Amsterdam",
-                "background_color": "#f5f0eb",
-                "theme_color": "#f5f0eb",
-                "start_url": "/",
-                "display": "standalone",
-                "icon": "./src/images/favicon.png"
-            }
-        },
-        {
-            "resolve": "gatsby-transformer-remark",
-            "options": {
-                "plugins": [
-                    "gatsby-remark-responsive-iframe"
-                ]
-            }
-        }
+  "siteMetadata": {
+    "title": "Nainaa R Rajpaal",
+    "description": "Nainaa R Rajpaal is your friendly neighborhood wordsmithstress",
+    "url": "https://nainaarrajpaal.com",
+    "author": "Nainaa R Rajpaal",
+    "image": "https://gatsby-starter-amsterdam.netlify.com/og-image.jpg",
+    "intro": "Nainaa R Rajpaal is your friendly neighborhood wordsmithstress",
+    "menuLinks": [
+      {
+        "name": "Nainaa R Rajpaal",
+        "slug": "/"
+      },
+      {
+        "name": "Video Campaigns",
+        "slug": "/video-campaigns/"
+      }
+    ],
+    "footerLinks": [
+      {
+        "name": "Gatsby Theme Amsterdam",
+        "url": "https: //github.com/ryanwiemer/gatsby-theme-amsterdam"
+      }
     ]
+  },
+  "plugins": [
+    {
+      "resolve": "gatsby-theme-amsterdam",
+      "options": {
+      }
+    },
+    {
+      "resolve": "gatsby-plugin-manifest",
+      "options": {
+        "name": "Gatsby Theme Amsterdam",
+        "short_name": "Amsterdam",
+        "background_color": "#f5f0eb",
+        "theme_color": "#f5f0eb",
+        "start_url": "/",
+        "display": "standalone",
+        "icon": "./src/images/favicon.png"
+      }
+    },
+    {
+      "resolve": "gatsby-transformer-remark",
+      "options": {
+        "plugins": [
+          "gatsby-remark-responsive-iframe"
+        ]
+      }
+    }
+  ]
 }
